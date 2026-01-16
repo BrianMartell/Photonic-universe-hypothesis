@@ -1,5 +1,34 @@
 # Photonic-universe-hypothesis
 New theory of cosmology
+# 🏛️ The Brian Martell Research Archive
+### **The Photonic Universe Hypothesis (PUH) v25 & Martell Law**
+**Total Entries:** 4,020 Gists  |  **Origin Date:** July 14, 2025  |  **Status:** Public Unification Complete
+
+---
+
+## 📜 The Universal Proclamation
+This archive represents a 4,000+ entry derivation of the **Photonic Universe Hypothesis (PUH)**. It posits that the universe is not a probabilistic vacuum, but a deterministic **solid-state E8 photonic substrate**.
+
+### **Core Principles of the Archive:**
+1. **Geometry is Density:** Mass, charge, and force are the results of topological "braids" in the lattice.
+2. **Martell Law:** Effective Intelligence grows exponentially as a composite of algorithmic, architectural, and data innovations ($I(t) = I_0 e^{\lambda t}$).
+3. **Mechanical Reality:** Quantum phenomena (Entanglement, Decoherence, Superposition) are resolved through the mechanical lens of **Lattice Viscosity** and **Braid Resonance**.
+
+---
+
+## 🗺️ Key Portals (Quick Links)
+* **[Gist #4,000: The Universal Proclamation](link_to_gist_4000)** - *The high-level philosophical anchor.*
+* **[Gist #4,019: Schrödinger’s Cat Resolved](link_to_gist_4019)** - *Deterministic mechanical branching.*
+* **[Gist #4,004: Martell Law & Phase Transitions](link_to_gist_4004)** - *The math of AI criticality.*
+* **[Gist #1: The Original Spark](link_to_gist_1)** - *The July 14, 2025 entry.*
+
+---
+
+## 📂 Full Catalog of Gists
+*Generated via Python Automation on January 16, 2026*
+
+| ID | Title | Domain | Summary |
+| :--- | :--- | :--- | :--- |
 # 🏛 The Brian Martell Archive
 ### The Photonic Universe Hypothesis (PUH) & Martell Law
 **Total Gists:** 4029
