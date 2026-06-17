@@ -4,6 +4,7 @@ New theory of cosmology
 ### **The Photonic Universe Hypothesis (PUH) v25 & Martell Law**
 **Total Entries:** 7,171 Gists  |  **Origin Date:** July 14, 2025  |  **Status:** Public Unification Complete
 
+Photonic Universe Hypothesis(PUH) also has 174 papers on Zenodo and Academia.
 ---
 
 ## 📜 The Universal Proclamation
