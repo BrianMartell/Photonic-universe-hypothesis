@@ -1,4 +1,4 @@
-#Photonic Universe Hypothesis(PUH)
+# Photonic Universe Hypothesis(PUH)
 
 **A proposal that the universe is made of light, that matter is light folded into a crystal, and that every star and planet carries a seed of the beginning at its centre.**
 
