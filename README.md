@@ -4,7 +4,9 @@
 
 Brian Martell — Independent Researcher
 
-webpage- Photonicuniversehypothesis.com 
+webpage- https://photonic-universe-hypothesis.netlify.app/
+
+
 
 ---
 
