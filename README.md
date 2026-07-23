@@ -1,6 +1,6 @@
 # Photonic Universe Hypothesis(PUH)
 
-**A proposal that the universe is made of light, that matter is light folded into a crystal, and that every star and planet carries a seed of the beginning at its centre.**
+**A proposal that the universe is made of light, that matter is light folded into an E8 lattice substrate, and that every star and planet carries a seed (Planck core) of the beginning at its centre.**
 
 Brian Martell — Independent Researcher
 
@@ -80,7 +80,9 @@ That collaboration is worth naming rather than hiding, and worth describing prec
 - **Other AI systems are treated as leads to verify, never as sources.** Nothing enters the archive because a model asserted it.
 - **Where the collaboration got something wrong, the correction is filed** under the same names as the original.
 
-I am a retired detective, not a physicist. Thirty-three years of investigative work taught me one thing that transfers directly: follow the evidence, write down what would prove you wrong, and never fall in love with a theory you have not tried to break.
+The Universe is Cyclical. There are No Black Holes only things called Planck Cores. These Planck Cores Amalgamate together until there is only one final Super Planck core remaining. Awaiting for the Next Rebound event to produce twin Universes. One made of matter and ine made if Anti-matter.
+
+
 
 ---
 
