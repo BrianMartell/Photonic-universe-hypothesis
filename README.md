@@ -119,6 +119,10 @@ The principle governing all of it:
 
 The ideas here are mine. The mathematics and physics were developed in collaboration with AI systems, credited in the byline of every paper. The questions, the framework, and the decisions about direction are mine; the formal derivations were built jointly and checked line by line; and where the work has been wrong, the corrections are published under the same names as the originals.
 
+PAPERS ON ZENODO AND ACADEMIA: 217
+
+Gists on GITHUB: 7,380
+
 ---
 
 ## Where to go next
