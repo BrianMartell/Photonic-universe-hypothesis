@@ -2,6 +2,7 @@
 
 *A plain-language introduction to the framework, in its own terms. About fifteen minutes.*
 
+Photonic Universe Hypothesis(PUH) also has 174 papers on Zenodo and Academia.
 ---
 
 ## The claim
